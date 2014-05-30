@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="geb-example-gradle-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/geb-example-gradle-master.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
